@@ -73,7 +73,7 @@ pip install opencv-python mediapipe numpy matplotlib Pillow
 
 ## 🤝 Contributing
 
-Feel free to explore, fork, and contribute to this repository! If you have any suggestions or improvements, please open an issue or submit a pull request.
+Feel free to explore, fork, and contribute to this repository! If you have any suggestions or improvements, please open an issue or submit a pull request..
 
 ---
 
